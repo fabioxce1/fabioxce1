@@ -1,10 +1,11 @@
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img alt="Profile views" src="https://img.shields.io/badge/Profile_views-2753-blue?style=flat">
+
 </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-<img alt="Static Badge" src="https://img.shields.io/badge/prueba?style=flat">
+
 
 
 

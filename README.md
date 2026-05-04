@@ -5,7 +5,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-# 💻 Fabio Santos Serrano | Senior PHP & Laravel Developer
+# 💻 Hi, I'm Fabio Santos Serrano | Senior PHP & Laravel Developer
 ### "Building tomorrow's digital infrastructure, one commit at a time."
 
 Systems Engineer with an architect’s mindset. I specialize in transforming complex business needs into scalable and elegant platforms. With over **5 years of experience** and **+80 deployed projects**, my focus is on clean code, extreme performance, and AI-driven innovation.

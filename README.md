@@ -1,44 +1,55 @@
-# Hola, soy Fabio Santos Serrano 🚀
+# 💻 Fabio Santos Serrano | Senior PHP & Laravel Developer
+### "Construyendo la infraestructura digital del mañana, un commit a la vez."
 
-### Senior Systems Engineer | Full-Stack Developer | Laravel Expert
-
-Soy un apasionado por la **arquitectura de sistemas estables** y la ingeniería de software de alto rendimiento. Con más de **5 años de experiencia** especializada en el ecosistema **PHP y Laravel**, mi enfoque principal es construir soluciones escalables que manejen cargas pesadas con la precisión de una obra de ingeniería civil.
-
----
-
-## 🛠 Mi Arsenal Técnico
-
-| Área | Tecnologías |
-| :--- | :--- |
-| **Backend** | PHP, Laravel (Action Classes, Service Containers, Dependency Injection) |
-| **Frontend** | JavaScript, Vue.js, Blade |
-| **Arquitectura** | TDD (Test Driven Development), Solid Principles, System Stability |
-| **IA & Automatización** | Integración de Gemini API, Agentes de IA, Auditorías SEO automáticas |
-| **Infraestructura** | Git, Gestión de Servidores, Despliegue de CMS Propietarios |
+Ingeniero de Sistemas con mentalidad de arquitecto. Me especializo en transformar necesidades complejas de negocio en plataformas escalables y elegantes. Con más de **5 años de experiencia** y **+80 proyectos desplegados**, mi enfoque es el código limpio, el rendimiento extremo y la innovación mediante IA.
 
 ---
 
-## 📈 Impacto en Números
+## 🚀 Experiencia Destacada
 
-*   **+80 Proyectos Desplegados**: Experiencia real gestionando el ciclo de vida completo del software, desde la concepción hasta la producción.
-*   **CMS Propietario**: Desarrollador del motor de gestión de contenidos "end-to-end" utilizado por múltiples clientes en **Damos Solución**.
-*   **Integración de IA**: Implementación activa de modelos de lenguaje para optimización de contenido y procesos empresariales.
+### 🛠️ Core Engine Architect @ Damos Solución (2021 - Presente)
+*   **CMS Propietario (Laravel/PHP)**: Lideré el desarrollo "end-to-end" de un ecosistema de gestión de contenidos de alto rendimiento.
+*   **Integración de IA**: Implementé agentes de IA (Gemini API) para automatización de auditorías SEO y traducción multilingüe en tiempo real.
+*   **Estabilidad del Sistema**: Implementación de **Unit Testing** y optimización de consultas complejas en MySQL para garantizar carga rápida y fiabilidad total.
+*   **UX Avanzada**: Integración de editores visuales WYSIWYG (GrapesJS) para empoderar al usuario final.
 
----
-
-## 🏍 Más allá del código
-
-Cuando no estoy optimizando queries o diseñando el próximo "rascacielos" digital, me encontrarás:
-*   Realizando mantenimiento técnico a mi **Yamaha FZ6 S2 Fazer**; la mecánica de alta cilindrada es mi segunda pasión de ingeniería.
-*   Diseñando **planeaciones educativas** tecnológicas para inspirar a las nuevas generaciones.
-*   Explorando nuevas formas de integrar la **IA en el flujo de trabajo diario** de los desarrolladores.
+### 📊 Data Scale Specialist @ EIDEC (2020 - 2021)
+*   **Gestión Masiva**: Diseñé estructuras de datos en MySQL para administrar eficientemente la certificación de **+20,000 estudiantes**.
+*   **Interactive UI**: Elevé la experiencia de usuario mediante desarrollos robustos con jQuery y Bootstrap.
 
 ---
 
-## 📫 Conectemos
+## 🧰 Stack Tecnológico
 
-*   **Ubicación**: Bucaramanga, Santander, Colombia 🇨🇴
-*   **Empresa Actual**: [Damos Solución](https://damos.co)
-*   **Especialidad**: Si necesitas escalar un sistema en Laravel que parece imposible, hablemos.
+| Backend & Core | Frontend & UI | Infra & DevOps |
+| :--- | :--- | :--- |
+| **PHP / Laravel (Experto)** | **Vue.js / React / jQuery** | **Git / GitHub / Docker** |
+| **APIs RESTful** | **Tailwind / Bootstrap** | **CI / CD / Agilidad** |
+| **MySQL / PostgreSQL** | **JavaScript (ES6+)** | **Composer / CPanel Git** |
 
 ---
+
+## 🏆 Proyectos que Impulsan Negocios
+He tenido el privilegio de liderar y desplegar infraestructuras críticas para:
+*   🏛️ **Gobierno**: [Concejo de Bucaramanga](https://concejodebucaramanga.gov.co)
+*   🏢 **Comercial**: [Cacique Centro Comercial](https://caciquecc.com)
+*   💼 **Corporativo**: [Martha Orozco](https://marthaorozco.co), [Regencord](https://regencord.com)
+*   🎗️ **Social**: [Fundación Impacto Para Ti](https://fundacionimpactoparati.com)
+
+---
+
+## ⚙️ Mi Filosofía de Desarrollo
+*   **Ownership Total**: Me hago cargo del ciclo de vida completo, desde la arquitectura de la base de datos hasta el último pixel del frontend.
+*   **Código Testeable**: Si no tiene pruebas, no está terminado. El TDD es mi brújula para la estabilidad.
+*   **Obsesión por la Carga**: En la web, cada milisegundo cuenta. Optimizo el backend para que el usuario nunca tenga que esperar.
+
+---
+
+## ⚡ Fuera del Editor de Código
+*   🏍️ **Ingeniería Mecánica**: El mismo rigor que aplico al Service Container de Laravel lo aplico al motor de mi **Yamaha FZ6 S2 Fazer**.
+*   🎓 **Educación**: Diseño material pedagógico tecnológico para sembrar la semilla de la programación en nuevas generaciones.
+
+---
+
+### 📫 Hablemos de tu próximo gran sistema:
+📧 [santosserranofabio@gmail.com](mailto:santosserranofabio@gmail.com) | 📱 [+57 315 709 7171](https://wa.me/573157097171) | 🔗 [LinkedIn](https://linkedin.com/in/fabioxce)

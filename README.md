@@ -1,5 +1,6 @@
 <p align = "center">
-	<img alt="Profile views" src="https://img.shields.io/badge/Profile_views-2753-blue?style=flat">
+	<img alt="Profile views" src="https://img.shields.io/badge/Profile_views-2.753-8A2BE2?style=flat">
+
 
 </p>
 <p align = "center">

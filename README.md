@@ -4,7 +4,8 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-![Static Badge](https://img.shields.io/badge/prueba?style=flat)
+<img alt="Static Badge" src="https://img.shields.io/badge/prueba?style=flat">
+
 
 
 # 💻 Hi, I'm Fabio Santos Serrano | Senior PHP & Laravel Developer

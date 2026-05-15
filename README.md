@@ -50,6 +50,8 @@ I have had the privilege of leading and deploying critical infrastructures for:
 *   🏥 **Facial aesthetics**: [Boris De Poortere](https://www.borisdepoortere.com/)
 *   🍩️ **Food**: [Chocolate Girones](https://www.girones.com.co/)    
 *   🧑🏻‍⚕️ **Health**: [Clinica San Luis](https://www.clinicasanluis.com.co/)    
+*   🧑🏻‍⚕️ **Real estate**: [Fincar Ltda](https://www.fincarltda.com/)    
+*   🧑🏻‍⚕️ **Construction Company**: [Cdesa](https://www.cdesa.co/)    
 These are some of the more than 80 projects successfully deployed.
 ---
 

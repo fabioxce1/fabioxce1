@@ -40,15 +40,22 @@ Systems Engineer with an architect’s mindset. I specialize in transforming com
 
 ## 🏆 Projects Driving Business
 I have had the privilege of leading and deploying critical infrastructures for:
-*   Local government institutions and major commercial centers in the region.
-*   Corporate platforms and non-profit organizations requiring high availability and scalable frontends.
+*   🏛️ **Government**: [Concejo de Bucaramanga](https://concejodebucaramanga.gov.co)
+*   🏢 **Commercial**: [Cacique Centro Comercial](https://caciquecc.com)
+*   💼 **Corporate**: [Martha Orozco](https://marthaorozco.co), [Regencord](https://regencord.com)
+*   🎗️ **Social**: [Fundación Impacto Para Ti](https://fundacionimpactoparati.com)
+*   🧳 **Product Catalog**: [Damos Soluciones](https://www.damos.co/)
+*   🎆 **Gallery**: [Ojo de Oz](https://www.ojodeoz.com/)
+*   🏫 **School**: [Fray Damian](https://www.fraydamian.edu.co/)
+*   🏥 **Facial aesthetics**: [Boris De Poortere](https://www.borisdepoortere.com/)
+*   🍩️ **Food**: [Chocolate Girones](https://www.girones.com.co/en)    
 
 ---
 
 ## ⚙️ My Development Philosophy
-*   **Total Ownership**: I take charge of the entire life cycle, from database architecture and Python-driven automation backend scripts to the very last React component pixel.
-*   **Testable Code**: If it doesn't have tests, it's not finished. TDD is my compass for stability across both backend and frontend ecosystems.
-*   **Obsession with Load Speed**: On the web, every millisecond counts. I optimize APIs and leverage React's virtual DOM efficiently so the user never has to wait.
+*   **Total Ownership**: I take charge of the entire life cycle, from database architecture to the very last frontend pixel.
+*   **Testable Code**: If it doesn't have tests, it's not finished. TDD is my compass for stability.
+*   **Obsession with Load Speed**: On the web, every millisecond counts. I optimize the backend so the user never has to wait.
 
 ---
 

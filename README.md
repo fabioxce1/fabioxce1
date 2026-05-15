@@ -48,8 +48,9 @@ I have had the privilege of leading and deploying critical infrastructures for:
 *   🎆 **Gallery**: [Ojo de Oz](https://www.ojodeoz.com/)
 *   🏫 **School**: [Fray Damian](https://www.fraydamian.edu.co/)
 *   🏥 **Facial aesthetics**: [Boris De Poortere](https://www.borisdepoortere.com/)
-*   🍩️ **Food**: [Chocolate Girones](https://www.girones.com.co/en)    
-
+*   🍩️ **Food**: [Chocolate Girones](https://www.girones.com.co/)    
+*   🧑🏻‍⚕️ **Health**: [Clinica San Luis](https://www.clinicasanluis.com.co/)    
+These are some of the more than 80 projects successfully deployed.
 ---
 
 ## ⚙️ My Development Philosophy
